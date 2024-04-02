@@ -3,11 +3,15 @@ In this project, we automated the process of scraping daily trending search topi
 **Recuirements**
 
 Python 3.x
+
 Selenium WebDriver
+
 ChromeDriver (compatible with your Chrome version)
+
 OpenPyXL
 
 **Necessary Libraries**
+
 selenium.webdriver is used for automating web browser interaction from Python.
 By is used to select elements with specific attributes.
 openpyxl is for reading from and writing to Excel files (.xlsx format).
